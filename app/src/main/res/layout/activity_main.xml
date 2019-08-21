@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:text="@string/text_name"
+        android:textColor="#FFFFFF"
         android:textSize="50sp" />
 
     <ImageView
